@@ -15,10 +15,10 @@ Computer Graphics semester project, Group 4.
 ## Team
 | Member | Role | GitHub |
 |---|---|---|
-| Nicole Kirimi | Math & Motion Lead | nkirimi |
-| Bill Ritchie | Geometry & Lighting Lead | @username |
-| Trevor James | Camera & Interaction Lead | @username |
-| Michael Wambari | Texture & Effects Lead | @username |
+| Nicole Kirimi | Math & Motion Lead | @nkirimi |
+| Bill Ritchie | Geometry & Lighting Lead | @Bill-Ritchie88 |
+| Trevor James | Camera & Interaction Lead | @treyvs |
+| Michael Wambari | Texture & Effects Lead | @Michael Wambari |
 | Wesley Mutisya | Integration, Testing & Docs Lead | Wesgitley |
 
 ## Graphics techniques implemented
